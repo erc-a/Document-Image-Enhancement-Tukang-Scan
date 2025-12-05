@@ -53,6 +53,6 @@ Program akan menghasilkan `ringkasan_statistik.csv` yang berisi rata-rata perbai
 
 ---
 
-Dosen Pengampu: Andika Setiawan, S.Kom., M.Cs.Dibuat oleh Kelompok 11 - Tukang Scan, FTI ITERA 2025.
+Dosen Pengampu: Andika Setiawan, S.Kom., M.Cs.Dibuat oleh Kelompok 11 - Tukang Scan, Teknik Informatika - ITERA 2025.
 
 ---
